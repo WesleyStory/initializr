@@ -1,0 +1,14 @@
+h1 {
+  text-align: center; /*centered icons and title*/
+}
+.text {
+  font-size: 16px; /*made font size bigger*/
+  font-weight: bold; /*bolded font to make easier to read*/
+  color: #800000; /*changed font color to dark red*/
+  padding: 15px; /*increased padding around text*/
+  border-top: solid grey 1px; /*added border between text and icon*/
+}
+h3 {
+  text-align: center; /*aligned panel title text to center*/
+  padding: 10px; /*increased padding around panel titles*/
+}
